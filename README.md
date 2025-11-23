@@ -8,7 +8,7 @@
 
 **Aplikasi mobile modern untuk menjelajahi destinasi wisata terbaik di Indonesia**
 
-[Demo](#-screenshots) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
+[Demo](https://uts-pemrograman-mobile.vercel.app/) • [Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
 
 </div>
 
